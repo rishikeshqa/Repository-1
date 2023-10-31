@@ -3,3 +3,4 @@ b=15
 b=15;
 c=a+b;
 println('C')
+d=C - C;
